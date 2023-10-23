@@ -32,7 +32,7 @@ app.get('/3a_test2', (req, res, next) => {
 
 //Issue #7
 app.get('/3a_test3', (req, res, next) => {
-	res.sendfile("assets/3a_testt3.json");
+	res.sendfile("assets/3a_test3.json");
 });
 
 //Issue #8
